@@ -18,7 +18,7 @@
 ## Описание разделов
 
 ### 1. Requirements Analysis
-Файл: `1-requirements-analysis/`[cart-analysis.md](https://github.com/Danka1991/petrushka-zelenaya-test/blob/main/1-requirements-analysis/cart-analysis.md)
+Файл: [1-requirements-analysis/cart-analysis.md](https://github.com/Danka1991/petrushka-zelenaya-test/blob/main/1-requirements-analysis/cart-analysis.md)
 
 Описание:
 - Анализ требований к корзине
@@ -28,7 +28,7 @@
 ---
 
 ### 2. API Design
-Файл: `2-api-design/partner-stores-api.md`
+Файл: [2-api-design/partner-stores-api.md](https://github.com/Danka1991/petrushka-zelenaya-test/blob/main/2-api-design/partner-stores-api.md)
 
 Описание:
 - Пример REST API запроса
@@ -36,7 +36,7 @@
 ---
 
 ### 3. Architecture
-Файл: `3-architecture/architecture.drawio.png`
+Файл: [3-architecture/architecture.drawio.png](https://github.com/Danka1991/petrushka-zelenaya-test/blob/main/3-architecture/architecture.drawio.png)
 
 Описание:
 - Архитектурное решение для push-уведомлений
