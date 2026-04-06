@@ -5,7 +5,7 @@
 ├── README.md
 │
 ├── 1-requirements-analysis/
-│ └── cart-analysis.md
+│ └── [cart-analysis.md](cart-analysis.md)
 │
 ├── 2-api-design/
 │ └── partner-stores-api.md
