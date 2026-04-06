@@ -18,7 +18,7 @@
 ## Описание разделов
 
 ### 1. Requirements Analysis
-Файл: `1-requirements-analysis/[cart-analysis.md](https://github.com/Danka1991/petrushka-zelenaya-test/blob/main/1-requirements-analysis/cart-analysis.md)`
+Файл: `1-requirements-analysis/`[cart-analysis.md](https://github.com/Danka1991/petrushka-zelenaya-test/blob/main/1-requirements-analysis/cart-analysis.md)
 
 Описание:
 - Анализ требований к корзине
